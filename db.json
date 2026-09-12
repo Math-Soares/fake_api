@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "matheus",
+      "password": "M@th3us*Pass2"
+    },
+    {
+      "id": 2,
+      "username": "maycon",
+      "password": "M@yc0n_Key3"
+    },
+    {
+      "id": 3,
+      "username": "wecikly",
+      "password": "W#c1kly!Access4"
+    },
+    {
+      "id": 4,
+      "username": "arthur",
+      "password": "Art#ur$Code5"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "id": 2,
+      "name": "Rio de Janeiro",
+      "state": "RJ"
+    },
+    {
+      "id": 3,
+      "name": "Brasília",
+      "state": "DF"
+    },
+    {
+      "id": 4,
+      "name": "Salvador",
+      "state": "BA"
+    },
+    {
+      "id": 5,
+      "name": "Fortaleza",
+      "state": "CE"
+    },
+    {
+      "id": 6,
+      "name": "Belo Horizonte",
+      "state": "MG"
+    },
+    {
+      "id": 7,
+      "name": "Manaus",
+      "state": "AM"
+    },
+    {
+      "id": 8,
+      "name": "Curitiba",
+      "state": "PR"
+    },
+    {
+      "id": 9,
+      "name": "Recife",
+      "state": "PE"
+    },
+    {
+      "id": 10,
+      "name": "Goiânia",
+      "state": "GO"
+    }
+  ],
+  "warnings": [
+    {
+      "id": 1,
+      "title": "Tempestade Severa",
+      "description": "Ventos de até 90km/h previstos para essa tarde. Evite áreas abertas.",
+      "level": 3
+    },
+    {
+      "id": 2,
+      "title": "Alto Índice UV",
+      "description": "UV entre 8-10 amanhã. Use protetor solar e evite sol entre 10h-16h.",
+      "level": 2
+    },
+    {
+      "id": 3,
+      "title": "Melhora no fim de semana",
+      "description": "Sábado e domingo com sol e baixa umidade. Ótimo para atividades ao ar livre.",
+      "level": 1
+    }
+  ]
+}
